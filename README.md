@@ -1,4 +1,6 @@
-## Olá, meu nome é Richard Alves da Silva! Sou desenvolvedor FullStack Web e Mobile 😎🤓
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4200&lines=Olá,+meu+nome+é+Richard+Alves+da+Silva!;Sou+desenvolvedor+FullStack+Web+e+Mobile+😎+🤓;" />
+</h1>
 
 <div>
   <a href="https://github.com/RichardCourtesy">
