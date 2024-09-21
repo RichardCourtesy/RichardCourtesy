@@ -28,3 +28,7 @@
   <img width="40px" alt="RichardCourtesy-Figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img width="40px" alt="RichardCourtesy-Cloud-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 </div>
+
+##
+
+![snake gif](https://github.com/RichardCourtesy/RichardCourtesy/blob/output/github-contribution-grid-snake.gif)
